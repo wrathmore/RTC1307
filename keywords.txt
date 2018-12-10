@@ -1,0 +1,17 @@
+# -----------------------------------------
+# Syntax colouring
+# -----------------------------------------
+
+# Datatypes (such as objects)
+RTC1307	KEYWORD1
+
+#Methods / functions
+getHours 	KEYWORD2
+getMinutes	KEYWORD2
+getSeconds	KEYWORD2
+setHours	KEYWORD2
+setMinutes	KEYWORD2
+setSeconds	KEYWORD2
+
+# Constants
+
